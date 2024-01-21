@@ -1,5 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "transient_prompt": {
+    "background": "#ffe9aa",
+    "foreground": "#100e23",
+    "template": "<#ffe9aa,transparent>\ue0b6</>>_<#ffe9aa,transparent>\ue0b4</><#ffe9aa,transparent>\u2800</>"
+  },
   "blocks": [
     {
       "alignment": "left",
